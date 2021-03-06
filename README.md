@@ -1,6 +1,6 @@
 # estudo_de_listas
 
-A new Flutter application.
+Aplicação para estudos de compreensão sobre listas, eventos de clique e alertdialog.
 
 ## Getting Started
 
